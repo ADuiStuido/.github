@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ADuiStuido/.github">
-    <img alt="ADui Studio" width="215" src="./adui-studio-logo.svg">
+    <img alt="ADui Studio" width="215" src="https://github.com/ADuiStuido/.github/blob/main/adui-studio-logo.png">
   </a>
   <h1>ADui Studio</h1>
 </div>
